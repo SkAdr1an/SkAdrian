@@ -1,19 +1,45 @@
-# Adrian, Only Creative Programmer!
+# Adrian, Only Creative Programmer! 🚀
 
-Aos 24 anos, minha paixão por tecnologia não é apenas uma curiosidade, mas uma crença profunda no seu potencial transformador. Desde a infância, fui fascinado por Inteligência Artificial e filmes visionários como *De Volta para o Futuro* e o intrigante *Ex Machina*. Vejo a tecnologia como uma força propulsora que pode nos levar a alturas ainda desconhecidas. Ela não só aprimora nosso cotidiano, mas também possibilita a criação de cidades inteligentes e soluções inovadoras, desde sistemas domésticos avançados até infraestruturas urbanas planejadas com precisão. A ausência de tecnologia limita nossas possibilidades, enquanto sua presença abre portas para um futuro mais eficiente e brilhante.
+Aos 24 anos, minha paixão por tecnologia não é apenas uma curiosidade, mas uma crença profunda no seu potencial transformador.  
+Desde a infância, fui fascinado por **Inteligência Artificial** e filmes visionários como *De Volta para o Futuro* e *Ex Machina*.  
+Vejo a tecnologia como uma força propulsora que não só aprimora nosso cotidiano, mas também abre caminho para soluções inovadoras — de cidades inteligentes a sistemas avançados de automação.  
 
-## Estatísticas de GitHub
+A ausência de tecnologia limita nossas possibilidades, enquanto sua presença abre portas para um futuro mais eficiente e brilhante. ✨  
 
-<p style="text-align:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkAdr1an&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="display:inline-block; width: 45%; margin-right: 5%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAdr1an&layout=compact&hide=html,css&langs_count=10&theme=highcontrast" alt="Most Used Languages" style="display:inline-block; width: 45%;"/>
+---
+
+## 🎯 Resumo Técnico
+
+Desenvolvedor em formação, estudante de **Ciência da Computação (Faculdade Pitágoras)**.  
+Experiência prática em **Python, JavaScript, SQL, Automação de Processos e Redes de Computadores**.  
+
+Áreas de interesse:  
+- 🤖 **Inteligência Artificial & Machine Learning**  
+- ⚡ **Automação de Processos**  
+- 🔒 **Segurança da Informação & Ethical Hacking**  
+
+Busco aplicar programação para **resolver problemas reais**, criar soluções inteligentes e contribuir em times de **inovação e desenvolvimento**.  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SkAdr1an&show_icons=true&theme=highcontrast" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAdr1an&layout=compact&hide=html,css&langs_count=10&theme=highcontrast" height="165"/>
 </p>
 
-## Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SkAdr1an&theme=highcontrast&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -21,16 +47,27 @@ Aos 24 anos, minha paixão por tecnologia não é apenas uma curiosidade, mas um
 ![Firebird](https://img.shields.io/badge/-Firebird-FF6600?style=flat&logo=firebird&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Projetos Destacados
+---
 
-- **[Reconhecimento de Placas de Trânsito](link-para-repositorio):** Projeto em desenvolvimento que utiliza Inteligência Artificial em Python para o reconhecimento e análise de placas de trânsito. A IA pretende identificar e interpretar placas para fornecer informações em tempo real, visando melhorar a segurança nas estradas e o monitoramento do tráfego.
+## 🚀 Projetos em Destaque  
 
-- **[Aplicativo Inteligente para Farmácias e Policlinicas](link-para-repositorio):** Em desenvolvimento, este aplicativo conecta farmácias e policlinicas para gerenciar a disponibilidade e a expiração de medicamentos. A plataforma está projetada para permitir a atualização em tempo real do estoque e notificar os usuários sobre a disponibilidade de medicamentos, ajudando a reduzir o desperdício e garantir a utilização eficaz dos medicamentos.
+- **[Reconhecimento de Placas de Trânsito](https://github.com/SkAdr1an/projeto-placas):**  
+  Projeto em Python com IA para **reconhecimento e análise de placas de trânsito**, visando melhorar segurança viária e monitoramento de tráfego.  
 
-- **[Aplicativo de Doação de Restos de Comida](link-para-repositorio):** Em desenvolvimento, este aplicativo é projetado para restaurantes e outras empresas alimentícias com o objetivo de coletar e redistribuir restos de comida para moradores de rua, pessoas necessitadas e ONGs. A plataforma visa facilitar a doação de alimentos de forma segura e eficiente, contribuindo para a redução do desperdício e apoiando comunidades carentes.
+- **[Aplicativo Inteligente para Farmácias e Policlínicas](https://github.com/SkAdr1an/app-farmacia):**  
+  Plataforma para **gestão de estoques e validade de medicamentos**, permitindo atualização em tempo real e reduzindo desperdícios.  
 
-## Contato
+- **[Aplicativo de Doação de Restos de Comida](https://github.com/SkAdr1an/app-doacao):**  
+  Aplicativo para restaurantes e empresas alimentícias com objetivo de **redistribuir alimentos para ONGs e comunidades**, contribuindo na luta contra o desperdício.  
 
-- **Email:** [adrian.skcorp@gmail.com](mailto:adrian.skcorp@gmail.com)
-- **LinkedIn:** [linkedin.com/in/adrian-lucero-6ab2b7259](https://www.linkedin.com/in/adrian-lucero-6ab2b7259/)
+---
+
+## 📫 Contato  
+
+- 📧 Email: [adrian.skcorp@gmail.com](mailto:adrian.skcorp@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/adrian-lucero-6ab2b7259](https://www.linkedin.com/in/adrian-lucero-6ab2b7259)  
+
+---
