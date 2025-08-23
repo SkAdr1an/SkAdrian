@@ -2,7 +2,7 @@
 
 Aos 24 anos, minha paixão por tecnologia não é apenas uma curiosidade, mas uma crença profunda no seu potencial transformador.  
 Desde a infância, fui fascinado por **Inteligência Artificial** e filmes visionários como *De Volta para o Futuro* e *Ex Machina*.  
-Vejo a tecnologia como uma força propulsora que não só aprimora nosso cotidiano, mas também abre caminho para soluções inovadoras — de cidades inteligentes a sistemas avançados de automação.  
+Vejo a tecnologia como uma força propulsora que não só aprimora nosso cotidiano, mas também abre caminho para soluções inovadoras, de cidades inteligentes a sistemas avançados de automação.  
 
 A ausência de tecnologia limita nossas possibilidades, enquanto sua presença abre portas para um futuro mais eficiente e brilhante. ✨  
 
