@@ -61,9 +61,17 @@ My goal is to apply programming to solve **real-world problems**, create smart s
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Featured Projects
-- [Traffic Sign Recognition](https://github.com/SkAdr1an/projeto-placas) — Python, OpenCV, TensorFlow  
-- [Smart Pharmacy Management App](https://github.com/SkAdr1an/app-farmacia) — Python, Flask, SQL  
-- [Food Donation App](https://github.com/SkAdr1an/app-doacao) — Node.js, MongoDB, Express  
+- **[Traffic Sign Recognition](https://github.com/SkAdr1an/projeto-placas)**  
+  AI project using **Python and OpenCV** for traffic sign recognition and analysis, aiming to improve road safety and traffic monitoring.  
+  **Stack:** Python, OpenCV, TensorFlow  
+
+- **[Smart Pharmacy Management App](https://github.com/SkAdr1an/app-farmacia)**  
+  Platform to manage medicine stocks and expiration dates with **real-time updates**, reducing waste and ensuring safer healthcare logistics.  
+  **Stack:** Python, Flask, SQL  
+
+- **[Food Donation App](https://github.com/SkAdr1an/app-doacao)**  
+  Application for redistributing surplus food from restaurants and companies to NGOs and communities, supporting social impact initiatives.  
+  **Stack:** Node.js, Express, MongoDB  
 
 ### Contact
 - Email: [adrian.skcorp@gmail.com](mailto:adrian.skcorp@gmail.com)  
@@ -93,9 +101,17 @@ Meu objetivo é aplicar programação para resolver **problemas reais**, criar s
 (mesma lista de badges)
 
 ### Projetos em Destaque
-- [Reconhecimento de Placas de Trânsito](https://github.com/SkAdr1an/projeto-placas) — Python, OpenCV, TensorFlow  
-- [Aplicativo Inteligente para Farmácias](https://github.com/SkAdr1an/app-farmacia) — Python, Flask, SQL  
-- [Aplicativo de Doação de Alimentos](https://github.com/SkAdr1an/app-doacao) — Node.js, MongoDB, Express  
+- **[Reconhecimento de Placas de Trânsito](https://github.com/SkAdr1an/projeto-placas)**  
+  Projeto de IA em **Python e OpenCV** para reconhecimento e análise de placas de trânsito, visando aumentar a segurança viária e o monitoramento do tráfego.  
+  **Stack:** Python, OpenCV, TensorFlow  
+
+- **[Aplicativo Inteligente para Farmácias](https://github.com/SkAdr1an/app-farmacia)**  
+  Plataforma para gestão de estoques e validade de medicamentos com **atualizações em tempo real**, reduzindo desperdícios e melhorando a logística em saúde.  
+  **Stack:** Python, Flask, SQL  
+
+- **[Aplicativo de Doação de Alimentos](https://github.com/SkAdr1an/app-doacao)**  
+  Aplicativo para redistribuir excedentes alimentares de restaurantes e empresas para ONGs e comunidades, fortalecendo iniciativas sociais.  
+  **Stack:** Node.js, Express, MongoDB  
 
 ### Contato
 - Email: [adrian.skcorp@gmail.com](mailto:adrian.skcorp@gmail.com)  
@@ -125,9 +141,17 @@ Mi objetivo es aplicar la programación para resolver **problemas reales**, crea
 (mesma lista de badges)
 
 ### Proyectos Destacados
-- [Reconocimiento de Señales de Tránsito](https://github.com/SkAdr1an/projeto-placas) — Python, OpenCV, TensorFlow  
-- [Aplicación Inteligente para Farmacias](https://github.com/SkAdr1an/app-farmacia) — Python, Flask, SQL  
-- [Aplicación de Donación de Alimentos](https://github.com/SkAdr1an/app-doacao) — Node.js, MongoDB, Express  
+- **[Reconocimiento de Señales de Tránsito](https://github.com/SkAdr1an/projeto-placas)**  
+  Proyecto de IA en **Python y OpenCV** para el reconocimiento y análisis de señales de tránsito, con el objetivo de mejorar la seguridad vial y el monitoreo del tráfico.  
+  **Stack:** Python, OpenCV, TensorFlow  
+
+- **[Aplicación Inteligente para Farmacias](https://github.com/SkAdr1an/app-farmacia)**  
+  Plataforma para la gestión de inventarios y fechas de vencimiento de medicamentos con **actualizaciones en tiempo real**, reduciendo desperdicios y optimizando la logística sanitaria.  
+  **Stack:** Python, Flask, SQL  
+
+- **[Aplicación de Donación de Alimentos](https://github.com/SkAdr1an/app-doacao)**  
+  Aplicación para redistribuir excedentes de alimentos de restaurantes y empresas hacia ONGs y comunidades, apoyando iniciativas sociales.  
+  **Stack:** Node.js, Express, MongoDB  
 
 ### Contacto
 - Email: [adrian.skcorp@gmail.com](mailto:adrian.skcorp@gmail.com)  
