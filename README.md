@@ -155,4 +155,8 @@ Mi objetivo es aplicar la programación para resolver **problemas reales**, crea
 
 ### Contacto
 - Email: [adrian.skcorp@gmail.com](mailto:adrian.skcorp@gmail.com)  
-- LinkedIn: [linkedin.com/in/adrian-lucero-6ab2b7259](https://www.linkedin.com/in/adrian-lucero-6ab2b7259)  
+- LinkedIn: [linkedin.com/in/adrian-lucero-6ab2b7259](https://www.linkedin.com/in/adrian-lucero-6ab2b7259)
+![Snake animation](https://github.com/SkAdr1an/SkAdrian/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/SkAdr1an/SkAdrian/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
