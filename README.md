@@ -24,17 +24,20 @@
 ## 🇺🇸 English
 
 ### About Me
-I am 24 years old, currently pursuing a **Bachelor’s degree in Computer Science (Faculdade Pitágoras)** and developing my skills with a focus on **Python, Artificial Intelligence, Process Automation, and Information Security**.  
-I believe technology is a driving force for transformation, capable of boosting innovation, efficiency, and social impact.
+Python-focused developer with a **fast learning curve and strong execution mindset**.  
+I build **APIs, automation tools, and data-driven solutions** aimed at solving real-world problems.
+
+I work mainly with **Python, Artificial Intelligence, Process Automation, and backend systems**, always prioritizing clarity, scalability, and practical impact.  
+Currently pursuing a **Bachelor’s degree in Computer Science**, while actively developing hands-on projects and production-oriented solutions.
 
 ### Technical Summary
-- Hands-on experience with **Python, JavaScript, SQL, Process Automation, and Computer Networks**.  
-- Areas of interest:  
-  - Artificial Intelligence & Machine Learning  
-  - Process Automation  
-  - Information Security & Ethical Hacking  
+- Strong hands-on experience with **Python, JavaScript, SQL, Process Automation, and Computer Networks**  
+- Key areas of focus:
+  - Artificial Intelligence & Machine Learning
+  - Process Automation
+  - Information Security & Ethical Hacking
 
-My goal is to apply programming to solve **real-world problems**, create smart solutions, and contribute to **innovation and development teams**.
+I am driven to contribute to **engineering teams that value autonomy, fast learning, and technical growth**, turning ideas into reliable software.
 
 ### GitHub Stats
 <p align="center">
@@ -62,101 +65,68 @@ My goal is to apply programming to solve **real-world problems**, create smart s
 
 ### Featured Projects
 - **[Traffic Sign Recognition](https://github.com/SkAdr1an/projeto-placas)**  
-  AI project using **Python and OpenCV** for traffic sign recognition and analysis, aiming to improve road safety and traffic monitoring.  
-  **Stack:** Python, OpenCV, TensorFlow  
+  Computer vision system using **Python and OpenCV** to recognize and analyze traffic signs, focusing on road safety and traffic monitoring.  
+  **Stack:** Python, OpenCV, TensorFlow
 
 - **[Smart Pharmacy Management App](https://github.com/SkAdr1an/app-farmacia)**  
-  Platform to manage medicine stocks and expiration dates with **real-time updates**, reducing waste and ensuring safer healthcare logistics.  
-  **Stack:** Python, Flask, SQL  
+  Backend-driven platform for managing medicine inventory and expiration dates with **real-time updates**, improving efficiency and reducing waste.  
+  **Stack:** Python, Flask, SQL
 
 - **[Food Donation App](https://github.com/SkAdr1an/app-doacao)**  
-  Application for redistributing surplus food from restaurants and companies to NGOs and communities, supporting social impact initiatives.  
-  **Stack:** Node.js, Express, MongoDB  
+  Application designed to redistribute surplus food from businesses to NGOs and communities, supporting scalable social impact initiatives.  
+  **Stack:** Node.js, Express, MongoDB
 
 ### Contact
 - Email: [adrian.skcorp@gmail.com](mailto:adrian.skcorp@gmail.com)  
-- LinkedIn: [linkedin.com/in/adrian-lucero-6ab2b7259](https://www.linkedin.com/in/adrian-lucero-6ab2b7259)  
+- LinkedIn: https://www.linkedin.com/in/adrian-lucero-6ab2b7259
 
 ---
 
 ## 🇧🇷 Português
 
 ### Sobre mim
-Tenho 24 anos, sou estudante de **Ciência da Computação (Faculdade Pitágoras)** e desenvolvedor em formação, com foco em **Python, Inteligência Artificial, Automação de Processos e Segurança da Informação**.  
-Acredito que a tecnologia é um motor de transformação, capaz de impulsionar inovação, eficiência e impacto social.
+Desenvolvedor com foco em **Python**, aprendizado rápido e forte orientação à **execução prática**.  
+Atuo na construção de **APIs, automações e soluções baseadas em dados**, sempre com foco em resolver problemas reais.
+
+Trabalho principalmente com **Python, Inteligência Artificial, Automação de Processos e sistemas backend**.  
+Atualmente curso **Ciência da Computação**, conciliando a formação acadêmica com projetos práticos e aplicações reais.
 
 ### Resumo Técnico
-- Experiência prática em **Python, JavaScript, SQL, Automação de Processos e Redes de Computadores**.  
-- Áreas de interesse:  
-  - Inteligência Artificial & Machine Learning  
-  - Automação de Processos  
-  - Segurança da Informação & Ethical Hacking  
+- Experiência prática com **Python, JavaScript, SQL, Automação de Processos e Redes**
+- Áreas de foco:
+  - Inteligência Artificial & Machine Learning
+  - Automação de Processos
+  - Segurança da Informação & Ethical Hacking
 
-Meu objetivo é aplicar programação para resolver **problemas reais**, criar soluções inteligentes e contribuir em equipes de **inovação e desenvolvimento**.
-
-### Estatísticas do GitHub
-(mesmos gráficos acima)
-
-### Tecnologias e Ferramentas
-(mesma lista de badges)
+Busco atuar em ambientes que valorizem **autonomia, crescimento técnico e aprendizado acelerado**, contribuindo com soluções sólidas e escaláveis.
 
 ### Projetos em Destaque
-- **[Reconhecimento de Placas de Trânsito](https://github.com/SkAdr1an/projeto-placas)**  
-  Projeto de IA em **Python e OpenCV** para reconhecimento e análise de placas de trânsito, visando aumentar a segurança viária e o monitoramento do tráfego.  
-  **Stack:** Python, OpenCV, TensorFlow  
-
-- **[Aplicativo Inteligente para Farmácias](https://github.com/SkAdr1an/app-farmacia)**  
-  Plataforma para gestão de estoques e validade de medicamentos com **atualizações em tempo real**, reduzindo desperdícios e melhorando a logística em saúde.  
-  **Stack:** Python, Flask, SQL  
-
-- **[Aplicativo de Doação de Alimentos](https://github.com/SkAdr1an/app-doacao)**  
-  Aplicativo para redistribuir excedentes alimentares de restaurantes e empresas para ONGs e comunidades, fortalecendo iniciativas sociais.  
-  **Stack:** Node.js, Express, MongoDB  
+(mantidos os mesmos)
 
 ### Contato
-- Email: [adrian.skcorp@gmail.com](mailto:adrian.skcorp@gmail.com)  
-- LinkedIn: [linkedin.com/in/adrian-lucero-6ab2b7259](https://www.linkedin.com/in/adrian-lucero-6ab2b7259)  
+(mantido)
 
 ---
 
 ## 🇪🇸 Español
 
 ### Sobre mí
-Tengo 24 años, actualmente estudio **Ciencias de la Computación (Faculdade Pitágoras)** y me estoy formando como desarrollador, con enfoque en **Python, Inteligencia Artificial, Automatización de Procesos y Seguridad Informática**.  
-Creo que la tecnología es una fuerza transformadora, capaz de impulsar la innovación, la eficiencia y el impacto social.
+Desarrollador enfocado en **Python**, con aprendizaje rápido y fuerte enfoque en la **ejecución práctica**.  
+Construyo **APIs, automatizaciones y soluciones basadas en datos**, orientadas a resolver problemas reales.
+
+Trabajo principalmente con **Python, Inteligencia Artificial, Automatización de Procesos y sistemas backend**, combinando formación académica con proyectos aplicados.
 
 ### Resumen Técnico
-- Experiencia práctica en **Python, JavaScript, SQL, Automatización de Procesos y Redes de Computadoras**.  
-- Áreas de interés:  
-  - Inteligencia Artificial & Machine Learning  
-  - Automatización de Procesos  
-  - Seguridad Informática & Ethical Hacking  
+- Experiencia práctica en **Python, JavaScript, SQL, Automatización de Procesos y Redes**
+- Áreas de enfoque:
+  - Inteligencia Artificial & Machine Learning
+  - Automatización de Procesos
+  - Seguridad Informática & Ethical Hacking
 
-Mi objetivo es aplicar la programación para resolver **problemas reales**, crear soluciones inteligentes y contribuir en equipos de **innovación y desarrollo**.
-
-### Estadísticas de GitHub
-(mesmos gráficos acima)
-
-### Tecnologías y Herramientas
-(mesma lista de badges)
-
-### Proyectos Destacados
-- **[Reconocimiento de Señales de Tránsito](https://github.com/SkAdr1an/projeto-placas)**  
-  Proyecto de IA en **Python y OpenCV** para el reconocimiento y análisis de señales de tránsito, con el objetivo de mejorar la seguridad vial y el monitoreo del tráfico.  
-  **Stack:** Python, OpenCV, TensorFlow  
-
-- **[Aplicación Inteligente para Farmacias](https://github.com/SkAdr1an/app-farmacia)**  
-  Plataforma para la gestión de inventarios y fechas de vencimiento de medicamentos con **actualizaciones en tiempo real**, reduciendo desperdicios y optimizando la logística sanitaria.  
-  **Stack:** Python, Flask, SQL  
-
-- **[Aplicación de Donación de Alimentos](https://github.com/SkAdr1an/app-doacao)**  
-  Aplicación para redistribuir excedentes de alimentos de restaurantes y empresas hacia ONGs y comunidades, apoyando iniciativas sociales.  
-  **Stack:** Node.js, Express, MongoDB  
+Mi objetivo es crecer dentro de equipos que valoren **aprendizaje rápido, responsabilidad técnica y evolución constante**.
 
 ### Contacto
-- Email: [adrian.skcorp@gmail.com](mailto:adrian.skcorp@gmail.com)  
-- LinkedIn: [linkedin.com/in/adrian-lucero-6ab2b7259](https://www.linkedin.com/in/adrian-lucero-6ab2b7259)
+(mantido)
+
 ![Snake animation](https://github.com/SkAdr1an/SkAdrian/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://github.com/SkAdr1an/SkAdrian/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
