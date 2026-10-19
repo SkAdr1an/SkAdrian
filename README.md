@@ -1,132 +1,87 @@
 <p align="center">
-  <img src="Banner%20Programador.png" alt="Adrian Lucero | Python Developer" width="100%">
+  <img src="assets/sk-adrian-banner.svg" alt="Adrian Lucero — Software Engineer | Backend, Systems Integration and Automation" width="100%" />
 </p>
+
+<p align="center">
+  <strong>Software Engineer · Backend · Systems Integration · Automation</strong><br/>
+  Building practical software for real operational and business challenges.
+</p>
+
+<p align="center">
+  <a href="docs/README.pt-BR.md">Português (Brasil)</a> ·
+  <a href="https://www.linkedin.com/in/adrian-lucero-6ab2b7259/">LinkedIn</a> ·
+  <a href="mailto:adrian.skcorp@gmail.com">Email</a>
+</p>
+
+---
+
+### What I do
+
+I'm **Adrian Lucero**, a Computer Science student and software developer based in Brazil. I work across backend engineering, APIs, systems integration, operational applications and automation, turning complex workflows into maintainable software.
+
+I combine hands-on development with an understanding of business operations. I also use AI-assisted development tools for research, implementation and testing, while keeping technical decisions and verification explicit.
+
+### Two ways to work together
+
+| For engineering teams | For businesses |
+| :--- | :--- |
+| **Considering me for a software role?** Explore my technical work and engineering approach. | **Need a system, integration or automation?** Let's discuss the problem and a practical scope. |
+| [**Connect on LinkedIn →**](https://www.linkedin.com/in/adrian-lucero-6ab2b7259/) | [**Discuss a project →**](mailto:adrian.skcorp@gmail.com?subject=Software%20Project%20Inquiry) |
+
+### Selected work
+
+#### Business operations software · Professional work
+
+Backend services, operational interfaces and third-party system integrations built around real business workflows. Experience includes tracking-related processes, REST APIs, data persistence and role-based access.
+
+**Focus:** Python · FastAPI · React · SQL · API integration  
+**Code:** Private / employer-related. No internal screenshots, sensitive architecture or company data are published here.
+
+#### Software licensing infrastructure · Private engineering project
+
+A TypeScript-based licensing and authorization system with an API, administrative interface and consumer SDK. Work includes signed capabilities, verification, auditability and license state management.
+
+**Focus:** TypeScript · Fastify · PostgreSQL · SDK design  
+**Status:** Private development and local validation; not presented as a production service.
+
+#### Device-tracking platform · Private engineering project
+
+An evolving platform combining device-location ingestion with a backend, operational dashboards and administration for multiple organizations.
+
+**Focus:** Fastify · PostgreSQL · React · Mobile integration  
+**Status:** In development / controlled validation.
+
+#### Public repositories
+
+- **[Log Anomaly Detector](https://github.com/SkAdr1an/log-anomaly-detector)** — A Python demonstration project for log analysis, anomaly detection and report generation.
+- **[HelpDesk Laravel](https://github.com/SkAdr1an/helpdesk-laravel)** — A ticket-management application exploring Laravel MVC, authentication, user-specific authorization and CRUD workflows.
+
+> For private work, descriptions above are intentionally high-level. Detailed case studies and metrics will be published only after verification and disclosure approval.
+
+[**Explore the public engineering samples and their limitations →**](docs/public-projects.md)
+
+### Engineering focus
+
+| Backend & integration | Applications & data | Delivery & tooling |
+| :--- | :--- | :--- |
+| Python, FastAPI, Node.js, Fastify, REST APIs | TypeScript, React, SQL, PostgreSQL, SQLite | Git, Docker, automated tests, AI-assisted workflows |
+
+**How I approach problems:** understand the process → define the boundaries → implement and test → document trade-offs → improve based on evidence.
+
+### Current direction
+
+- Building maintainable backend services and integrations.
+- Strengthening application security, testing, system design and delivery practices.
+- Turning operational requirements into measurable software outcomes.
+- Learning continuously through Computer Science studies and real engineering projects.
 
 ---
 
 <p align="center">
-  <b>🇺🇸 Python Developer | Machine Learning & Automation</b><br>
-  <b>🇧🇷 Desenvolvedor Python | IA & Automação de Processos</b><br>
-  <b>🇪🇸 Desarrollador Python | IA & Automatización de Procesos</b>
+  <strong>Engineering solutions for real-world business challenges.</strong><br/>
+  <a href="https://www.linkedin.com/in/adrian-lucero-6ab2b7259/">Professional opportunities</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:adrian.skcorp@gmail.com?subject=Software%20Project%20Inquiry">Business inquiries</a>
+  &nbsp;·&nbsp;
+  <a href="docs/README.pt-BR.md">Leia em português</a>
 </p>
-
----
-
-# 🌐 Languages | Idiomas | Idiomas
-<p align="center">
-  <a href="#-english"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge"></a>
-  <a href="#-português"><img src="https://img.shields.io/badge/Português-green?style=for-the-badge"></a>
-  <a href="#-español"><img src="https://img.shields.io/badge/Español-red?style=for-the-badge"></a>
-</p>
-
----
-
-## 🇺🇸 English
-
-### About Me
-Python-focused developer with a **fast learning curve and strong execution mindset**.  
-I build **APIs, automation tools, and data-driven solutions** aimed at solving real-world problems.
-
-I work mainly with **Python, Artificial Intelligence, Process Automation, and backend systems**, always prioritizing clarity, scalability, and practical impact.  
-Currently pursuing a **Bachelor’s degree in Computer Science**, while actively developing hands-on projects and production-oriented solutions.
-
-### Technical Summary
-- Strong hands-on experience with **Python, JavaScript, SQL, Process Automation, and Computer Networks**  
-- Key areas of focus:
-  - Artificial Intelligence & Machine Learning
-  - Process Automation
-  - Information Security & Ethical Hacking
-
-I am driven to contribute to **engineering teams that value autonomy, fast learning, and technical growth**, turning ideas into reliable software.
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkAdr1an&show_icons=true&theme=highcontrast" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAdr1an&layout=compact&hide=html,css&langs_count=10&theme=highcontrast" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SkAdr1an&theme=highcontrast&hide_border=true" height="165"/>
-</p>
-
-### Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
-![Firebird](https://img.shields.io/badge/-Firebird-FF6600?style=flat&logo=firebird&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Featured Projects
-- **[Traffic Sign Recognition](https://github.com/SkAdr1an/projeto-placas)**  
-  Computer vision system using **Python and OpenCV** to recognize and analyze traffic signs, focusing on road safety and traffic monitoring.  
-  **Stack:** Python, OpenCV, TensorFlow
-
-- **[Smart Pharmacy Management App](https://github.com/SkAdr1an/app-farmacia)**  
-  Backend-driven platform for managing medicine inventory and expiration dates with **real-time updates**, improving efficiency and reducing waste.  
-  **Stack:** Python, Flask, SQL
-
-- **[Food Donation App](https://github.com/SkAdr1an/app-doacao)**  
-  Application designed to redistribute surplus food from businesses to NGOs and communities, supporting scalable social impact initiatives.  
-  **Stack:** Node.js, Express, MongoDB
-
-### Contact
-- Email: [adrian.skcorp@gmail.com](mailto:adrian.skcorp@gmail.com)  
-- LinkedIn: https://www.linkedin.com/in/adrian-lucero-6ab2b7259
-
----
-
-## 🇧🇷 Português
-
-### Sobre mim
-Desenvolvedor com foco em **Python**, aprendizado rápido e forte orientação à **execução prática**.  
-Atuo na construção de **APIs, automações e soluções baseadas em dados**, sempre com foco em resolver problemas reais.
-
-Trabalho principalmente com **Python, Inteligência Artificial, Automação de Processos e sistemas backend**.  
-Atualmente curso **Ciência da Computação**, conciliando a formação acadêmica com projetos práticos e aplicações reais.
-
-### Resumo Técnico
-- Experiência prática com **Python, JavaScript, SQL, Automação de Processos e Redes**
-- Áreas de foco:
-  - Inteligência Artificial & Machine Learning
-  - Automação de Processos
-  - Segurança da Informação & Ethical Hacking
-
-Busco atuar em ambientes que valorizem **autonomia, crescimento técnico e aprendizado acelerado**, contribuindo com soluções sólidas e escaláveis.
-
-### Projetos em Destaque
-(mantidos os mesmos)
-
-### Contato
-(mantido)
-
----
-
-## 🇪🇸 Español
-
-### Sobre mí
-Desarrollador enfocado en **Python**, con aprendizaje rápido y fuerte enfoque en la **ejecución práctica**.  
-Construyo **APIs, automatizaciones y soluciones basadas en datos**, orientadas a resolver problemas reales.
-
-Trabajo principalmente con **Python, Inteligencia Artificial, Automatización de Procesos y sistemas backend**, combinando formación académica con proyectos aplicados.
-
-### Resumen Técnico
-- Experiencia práctica en **Python, JavaScript, SQL, Automatización de Procesos y Redes**
-- Áreas de enfoque:
-  - Inteligencia Artificial & Machine Learning
-  - Automatización de Procesos
-  - Seguridad Informática & Ethical Hacking
-
-Mi objetivo es crecer dentro de equipos que valoren **aprendizaje rápido, responsabilidad técnica y evolución constante**.
-
-### Contacto
-(mantido)
-
-![Snake animation](https://github.com/SkAdr1an/SkAdrian/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation](https://github.com/SkAdr1an/SkAdrian/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
