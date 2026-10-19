@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="430" viewBox="0 0 1600 430" role="img" aria-labelledby="title desc">
+  <title id="title">Adrian Lucero — Software Engineer</title>
+  <desc id="desc">Dark graphite engineering banner with a restrained gold accent, blue network lines and the headline Engineering solutions for real-world business challenges.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#080D14"/><stop offset=".63" stop-color="#121B27"/><stop offset="1" stop-color="#090E16"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#D8B778"/><stop offset="1" stop-color="#9F7E48"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#456C83" stop-opacity=".08"/><stop offset=".6" stop-color="#6AA7C5" stop-opacity=".6"/><stop offset="1" stop-color="#D6AD69" stop-opacity=".15"/></linearGradient>
+    <pattern id="grid" width="58" height="58" patternUnits="userSpaceOnUse"><path d="M 58 0 L 0 0 0 58" fill="none" stroke="#5C7A90" stroke-opacity=".08" stroke-width="1"/></pattern>
+    <clipPath id="clip"><rect width="1600" height="430" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1600" height="430" fill="url(#bg)"/>
+    <rect width="1600" height="430" fill="url(#grid)"/>
+    <path d="M790 430 C900 310 1020 350 1090 210 S1370 70 1610 -10" fill="none" stroke="url(#line)" stroke-width="2"/>
+    <path d="M810 430 C970 260 1090 400 1170 230 S1450 90 1660 30" fill="none" stroke="#5E8EA9" stroke-opacity=".21" stroke-width="1.5"/>
+    <path d="M850 430 C1030 305 1100 280 1260 290 S1440 190 1660 145" fill="none" stroke="#C5A46D" stroke-opacity=".17" stroke-width="1.5"/>
+    <g fill="#8CBCD2"><circle cx="1090" cy="210" r="5" opacity=".9"/><circle cx="1170" cy="230" r="4" opacity=".55"/><circle cx="1260" cy="290" r="5" opacity=".6"/></g>
+    <g fill="#C5A46D"><circle cx="1355" cy="91" r="5"/><circle cx="1490" cy="53" r="3" opacity=".65"/></g>
+    <g stroke="#5A7990" stroke-opacity=".35" fill="none">
+      <path d="M970 90 l95 -37 100 46 118 -39 135 48 105 -45"/>
+      <path d="M995 140 l92 45 145 -33 113 50 128 -32"/>
+      <path d="M1065 53 l22 132 M1165 99 l67 53 M1283 60 l62 142 M1418 108 l55 62"/>
+    </g>
+    <g fill="#80A6BA" opacity=".65"><circle cx="970" cy="90" r="3"/><circle cx="1065" cy="53" r="3"/><circle cx="1165" cy="99" r="3"/><circle cx="1283" cy="60" r="3"/><circle cx="1418" cy="108" r="3"/><circle cx="1473" cy="170" r="3"/></g>
+    <rect x="87" y="76" width="4" height="276" rx="2" fill="url(#gold)"/>
+    <text x="116" y="123" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5.5" font-weight="700" fill="#D0AA6E">SK ADRIAN  /  SOFTWARE ENGINEERING</text>
+    <text x="112" y="212" font-family="Arial, Helvetica, sans-serif" font-size="79" letter-spacing="-2" font-weight="700" fill="#F2F5F9">ADRIAN <tspan fill="#D4AC70">LUCERO</tspan></text>
+    <text x="116" y="263" font-family="Arial, Helvetica, sans-serif" font-size="27" letter-spacing="2.4" fill="#DCE4EC">BACKEND · SYSTEMS INTEGRATION · AUTOMATION</text>
+    <text x="116" y="318" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#AAB8C7">Engineering solutions for real-world business challenges.</text>
+    <text x="117" y="373" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3.3" fill="#7A98AE">BUILD  /  CONNECT  /  IMPROVE</text>
+    <rect x="1" y="1" width="1598" height="428" rx="17" fill="none" stroke="#516070" stroke-opacity=".46" stroke-width="2"/>
+  </g>
+</svg>
