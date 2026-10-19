@@ -58,6 +58,8 @@ Plataforma em evolução que reúne ingestão de posições, backend, interfaces
 
 > As descrições de projetos privados são intencionalmente gerais. Estudos de caso completos e métricas só serão publicados após comprovação e autorização de divulgação.
 
+[**Conheça os projetos públicos e suas limitações →**](public-projects.pt-BR.md)
+
 ### Competências técnicas
 
 | Backend e integrações | Aplicações e dados | Ferramentas e desenvolvimento |
