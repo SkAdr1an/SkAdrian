@@ -58,6 +58,8 @@ An evolving platform combining device-location ingestion with a backend, operati
 
 > For private work, descriptions above are intentionally high-level. Detailed case studies and metrics will be published only after verification and disclosure approval.
 
+[**Explore the public engineering samples and their limitations →**](docs/public-projects.md)
+
 ### Engineering focus
 
 | Backend & integration | Applications & data | Delivery & tooling |
